@@ -1,0 +1,14 @@
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\bin\Debug\net9.0\GradingSystem.exe
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\bin\Debug\net9.0\GradingSystem.deps.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\bin\Debug\net9.0\GradingSystem.runtimeconfig.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\bin\Debug\net9.0\GradingSystem.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\bin\Debug\net9.0\GradingSystem.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\obj\Debug\net9.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\obj\Debug\net9.0\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\obj\Debug\net9.0\GradingSystem.AssemblyInfo.cs
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\obj\Debug\net9.0\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\obj\Debug\net9.0\GradingSystem.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\obj\Debug\net9.0\refint\GradingSystem.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\obj\Debug\net9.0\GradingSystem.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\obj\Debug\net9.0\GradingSystem.genruntimeconfig.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 4\GradingSystem\obj\Debug\net9.0\ref\GradingSystem.dll

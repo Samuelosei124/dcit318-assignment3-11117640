@@ -1,0 +1,3 @@
+Alice Smith (ID: 101): Score = 84, Grade = A
+Bob Jones (ID: 102): Score = 76, Grade = B
+Carol White (ID: 103): Score = 67, Grade = C
