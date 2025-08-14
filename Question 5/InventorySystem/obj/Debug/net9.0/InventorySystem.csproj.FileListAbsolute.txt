@@ -1,0 +1,14 @@
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\bin\Debug\net9.0\InventorySystem.exe
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\bin\Debug\net9.0\InventorySystem.deps.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\bin\Debug\net9.0\InventorySystem.runtimeconfig.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\bin\Debug\net9.0\InventorySystem.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\bin\Debug\net9.0\InventorySystem.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\obj\Debug\net9.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\obj\Debug\net9.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\obj\Debug\net9.0\InventorySystem.AssemblyInfo.cs
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\obj\Debug\net9.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\obj\Debug\net9.0\InventorySystem.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\obj\Debug\net9.0\refint\InventorySystem.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\obj\Debug\net9.0\InventorySystem.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\obj\Debug\net9.0\InventorySystem.genruntimeconfig.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 5\InventorySystem\obj\Debug\net9.0\ref\InventorySystem.dll
