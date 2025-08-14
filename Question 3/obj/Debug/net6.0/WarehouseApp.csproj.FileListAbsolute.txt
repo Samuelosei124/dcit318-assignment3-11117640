@@ -1,0 +1,14 @@
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\bin\Debug\net6.0\WarehouseApp.exe
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\bin\Debug\net6.0\WarehouseApp.deps.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\bin\Debug\net6.0\WarehouseApp.runtimeconfig.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\bin\Debug\net6.0\WarehouseApp.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\bin\Debug\net6.0\WarehouseApp.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\obj\Debug\net6.0\WarehouseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\obj\Debug\net6.0\WarehouseApp.AssemblyInfoInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\obj\Debug\net6.0\WarehouseApp.AssemblyInfo.cs
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\obj\Debug\net6.0\WarehouseApp.csproj.CoreCompileInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\obj\Debug\net6.0\WarehouseApp.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\obj\Debug\net6.0\refint\WarehouseApp.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\obj\Debug\net6.0\WarehouseApp.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\obj\Debug\net6.0\WarehouseApp.genruntimeconfig.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 3\obj\Debug\net6.0\ref\WarehouseApp.dll
