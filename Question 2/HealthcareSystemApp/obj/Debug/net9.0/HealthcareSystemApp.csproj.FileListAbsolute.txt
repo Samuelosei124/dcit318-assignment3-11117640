@@ -1,0 +1,14 @@
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\bin\Debug\net9.0\HealthcareSystemApp.exe
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\bin\Debug\net9.0\HealthcareSystemApp.deps.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\bin\Debug\net9.0\HealthcareSystemApp.runtimeconfig.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\bin\Debug\net9.0\HealthcareSystemApp.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\bin\Debug\net9.0\HealthcareSystemApp.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.AssemblyInfoInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.AssemblyInfo.cs
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\obj\Debug\net9.0\refint\HealthcareSystemApp.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.genruntimeconfig.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\Question 2\HealthcareSystemApp\obj\Debug\net9.0\ref\HealthcareSystemApp.dll
