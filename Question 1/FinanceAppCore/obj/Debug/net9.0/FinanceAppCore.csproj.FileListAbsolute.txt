@@ -1,0 +1,11 @@
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\question 1\FinanceAppCore\bin\Debug\net9.0\FinanceAppCore.deps.json
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\question 1\FinanceAppCore\bin\Debug\net9.0\FinanceAppCore.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\question 1\FinanceAppCore\bin\Debug\net9.0\FinanceAppCore.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\question 1\FinanceAppCore\obj\Debug\net9.0\FinanceAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\question 1\FinanceAppCore\obj\Debug\net9.0\FinanceAppCore.AssemblyInfoInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\question 1\FinanceAppCore\obj\Debug\net9.0\FinanceAppCore.AssemblyInfo.cs
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\question 1\FinanceAppCore\obj\Debug\net9.0\FinanceAppCore.csproj.CoreCompileInputs.cache
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\question 1\FinanceAppCore\obj\Debug\net9.0\FinanceAppCore.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\question 1\FinanceAppCore\obj\Debug\net9.0\refint\FinanceAppCore.dll
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\question 1\FinanceAppCore\obj\Debug\net9.0\FinanceAppCore.pdb
+C:\Users\godoe\OneDrive - University of Ghana\Desktop\Assignment 3\question 1\FinanceAppCore\obj\Debug\net9.0\ref\FinanceAppCore.dll
